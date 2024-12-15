@@ -1,5 +1,3 @@
-# Short-Url
-
 # Short URL Project
 
 A simple URL shortening service built with Express.js, MongoDB, and Mongoose. This project allows users to shorten URLs and track visit analytics.
