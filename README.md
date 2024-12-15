@@ -70,4 +70,7 @@ A simple URL shortening service built with Express.js, MongoDB, and Mongoose. Th
 5. Push to the branch (`git push origin feature-name`).
 6. Create a new pull request.
 
+## Screenshots
+1. Final Database after http requests 
+<img width="679" alt="Screenshot 2024-12-16 at 12 15 49 AM" src="https://github.com/user-attachments/assets/d39f7b77-c1fe-4c63-aa39-af0b7ab48cde" />
    
